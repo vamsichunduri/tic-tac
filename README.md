@@ -1,1 +1,1 @@
-# tic-tac - python
+# tic-tac
